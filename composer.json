@@ -1,0 +1,12 @@
+{
+	"name": "bradp/dolly",
+	"type": "wordpress-plugin",
+	"description": "A WordPress plugin to make sure Hello Dolly stays deactivated",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+	  {
+		"name": "Brad Parbs",
+		"email": "brad@bradparbs.com"
+	  }
+	]
+}
